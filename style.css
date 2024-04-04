@@ -1,0 +1,13 @@
+input[type="text"] {
+    width: 100%;
+    box-sizing: border-box; /* Include padding and border in the width */
+  }
+  textarea#form-message {
+    height: 200px; /* Adjust the height as needed */
+    width: 100%; /* Ensure the textarea spans the entire width */
+    box-sizing: border-box; /* Include padding and border in the width */
+  }
+  body{
+    margin: 10px;;
+    padding: 10px;;
+  }
